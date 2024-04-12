@@ -26,6 +26,5 @@ I have been interested in working with Data & AI bringing classical machine lear
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://developers.google.com/apps-script" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" alt="app_script" width="40" height="40"/> </a> <br />
 
-<h4 align="center">Let's Connect</h4>
-<a href="https://www.linkedin.com/in/jirajet-hansithiwong/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="gcp" width="40" height="40"/> </a> 
+<h4 align="center">Let's Connect</h4> <a href="https://www.linkedin.com/in/jirajet-hansithiwong/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="gcp" width="40" height="40"/> </a> 
 
