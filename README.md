@@ -1,7 +1,7 @@
 # Hello There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 I'm Jirajet (Ton) Hansithiwong, a senior AI Engineering Student at Chulalongkorn University. <br />
 I'm interested in working with Data & AI bringing classical machine learning models and data analytics to production. 
-Here's my [resume]([https://pages.github.com/](https://drive.google.com/file/d/1vffOYHbjB0Cenbu_DjzB0dEN6AJm_Zng/view?usp=drive_link)
+Here's my [resume]([https://pages.github.com/](https://drive.google.com/file/d/1vffOYHbjB0Cenbu_DjzB0dEN6AJm_Zng/view?usp=drive_link))
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
