@@ -1,5 +1,5 @@
 # Hello There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-I'm Jirajet (Ton) Hansithiwong, a senior AI Engineering Student at Chulalongkorn University. <br />
+I'm Jirajet (Ton) Hansithiwong, an AI Engineering graduate from Chulalongkorn University. <br />
 I'm interested in working with Data & AI bringing classical machine learning models and data analytics to production. 
 
 <h3 align="left">Programming Languages:</h3>
